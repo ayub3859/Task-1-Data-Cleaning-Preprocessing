@@ -33,7 +33,3 @@ This project performs data cleaning and preprocessing on the Titanic dataset usi
 
 Output:
 Final CSV has no nulls, all features encoded, scaled, and cleaned of outliers.
-
----
-
-Let me know if you want a template repo or want me to generate a zipped folder structure for uploading directly.
